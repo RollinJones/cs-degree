@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "${workspaceFolder}/semester-01/python/unit_conversion/src"
+    ]
+}
